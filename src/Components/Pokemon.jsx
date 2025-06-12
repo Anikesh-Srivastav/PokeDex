@@ -8,7 +8,7 @@ const Pokemon = () => {
     const [error, setError] = useState(null);
     const [search, setSearch] = useState("");
 
-    const ApiKey = 'https://pokeapi.co/api/v2/pokemon?limit=124'
+    const ApiKey = "YOUR API KEY HERE"
 
     const CatchingThePokemons = async () => {
         try {
