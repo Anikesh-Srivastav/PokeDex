@@ -1,1 +1,1 @@
-Link - pokedexv1a.netlify.app
+Link - 'pokedexv1a.netlify.app'
